@@ -12,7 +12,7 @@ import android.widget.ListView;
  */
 public class SmsFoldersListActivity extends ListActivity {
 
-    private String[] folders = {"inbox", "send", "draft", "outbox", "failed",
+    private String[] folders = {"inbox", "sent", "draft", "outbox", "failed",
             "queued", "undelivered", "conversations"};
 
 
